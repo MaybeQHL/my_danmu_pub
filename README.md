@@ -12,7 +12,7 @@
 
 ## 文档
 
-API根地址: `api.danmu.oyyds.top `
+API根地址: `https://api.danmu.oyyds.top`
 
 [API对接文档](https://console-docs.apipost.cn/doc.html?url=508e9181d81a978c&salt=d92a27922cea066a#b9ce2fcf-2f24-4f5c-8b93-c82254714851)
 
