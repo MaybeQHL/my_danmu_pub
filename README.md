@@ -16,6 +16,15 @@ API根地址: `https://api.danmu.oyyds.top`
 
 [API对接文档](https://console-docs.apipost.cn/doc.html?url=508e9181d81a978c&salt=d92a27922cea066a#b9ce2fcf-2f24-4f5c-8b93-c82254714851)
 
+### 响应
+```
+{
+ code:200， // 200 正常 500 错误 
+ msg：'',   // 提示信息
+ data:[]    // 数据
+}
+```
+
 ### 弹幕功能
 1. 纯文本类型弹幕
 2. 弹幕类型有头部、底部、滚动、魔法弹幕(暂未实现).
