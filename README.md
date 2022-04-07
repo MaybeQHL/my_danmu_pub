@@ -13,7 +13,7 @@
 ## 文档
 > 对接原则建立在异步的情况下,如果系统出问题至少你要保证你原来的逻辑不受影响，顶多就是没有弹幕。
 
-API根地址: `https://api.danmu.oyyds.top`
+API根地址: https://api.danmu.oyyds.top
 
 [API对接文档](https://console-docs.apipost.cn/doc.html?url=508e9181d81a978c&salt=d92a27922cea066a#b9ce2fcf-2f24-4f5c-8b93-c82254714851)
 
@@ -52,6 +52,8 @@ API根地址: `https://api.danmu.oyyds.top`
 ## 捐赠
 
 本系统开发、部署、维护都是作者自己出钱、出力，如果有兴趣赞助联系本人，邮箱地址:`maybe52052@gmail.com`
+## 交流群
+群1：262687084
 
 # Changelog
 
