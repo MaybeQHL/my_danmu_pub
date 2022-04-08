@@ -66,6 +66,7 @@ API根地址: https://api.danmu.oyyds.top
 - 添加首页
 ### 🤝Changed
 ### 🐛Fixed
+- 数据库时区问题
 
 ## 2022-04-07
 ### 🎁Added
