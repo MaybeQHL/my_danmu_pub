@@ -21,16 +21,10 @@ API根地址: https://api.danmu.oyyds.top
 [API对接文档](https://console-docs.apipost.cn/doc.html?url=508e9181d81a978c&salt=d92a27922cea066a#b9ce2fcf-2f24-4f5c-8b93-c82254714851)
 
 ### 对接顺序(具体细节请查看API对接文档)
- #### 查询资源（视频）id (如果无资源可自行添加)
- api: https://api.danmu.oyyds.top/api/goods/getSome?name=斗破
-
- #### 查询集id (如果无集可自行添加)
- api: https://api.danmu.oyyds.top/api/episode/getOneByNumer?number=1-0&goodsId=624694e360f855ce59c6b1c6
- 
-**这里number对应的规则 -> 预告：`0-1`,`0-2` 正片: `1-0`(第一集),`2-0`(第二集)**
 
  #### 查询、添加弹幕 
- 查询弹幕api: https://api.danmu.oyyds.top/api/message/getSome?episodeId=62469a52560d76ba26d7dafb
+ 查询弹幕api: https://api.danmu.oyyds.top/api/message/getSome?name=斗破苍穹第一季&number=第一集&type=1
+ > 备注: 如果没有该资源会自动添加
  
  添加弹幕api: https://api.danmu.oyyds.top/api/message/addOne
  
@@ -61,7 +55,14 @@ API根地址: https://api.danmu.oyyds.top
 
 # Changelog
 
-## 2022-04-08
+## 2022-04-18
+### 🎁Added
+- 添加访问黑名单
+### 🤝Changed
+- 更改系统逻辑
+### 🐛Fixed
+
+## 2022-04-09
 ### 🎁Added
 - 限制单集弹幕最大6000条(暂时)
 ### 🤝Changed
