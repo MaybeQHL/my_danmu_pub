@@ -1,4 +1,7 @@
+
 # my_danmu_pub
+![20684083](https://user-images.githubusercontent.com/34638673/163958311-65404541-49b1-4840-8a19-4b7f46207e9b.gif)
+
 免费、公开、快速的弹幕系统API。
 
 ## 初衷
@@ -8,8 +11,10 @@
 目前系统处于`测试`阶段,可能会修改相关的逻辑。
 
 ## 提示
-切勿使用本系统做违法乱纪的事情，一切后果自己承担。
+![2069726C](https://user-images.githubusercontent.com/34638673/163958548-d098391d-a54a-4621-aacb-13a5c3d5f6f3.jpg)
 
+- 切勿使用本系统做违法乱纪的事情，一切后果自己承担。
+- 切勿恶意占用服务器资源（如恶意添加资源、恶意发送弹幕、恶意流量攻击）,一经发现永久冻结ip。
 ## 弹幕演示
 [在线演示](http://null_639_5368.gitee.io/my_danmu )
 
@@ -18,6 +23,7 @@
 
 API根地址: https://api.danmu.oyyds.top
 
+对接请看这里：
 [API对接文档](https://console-docs.apipost.cn/doc.html?url=508e9181d81a978c&salt=d92a27922cea066a#b9ce2fcf-2f24-4f5c-8b93-c82254714851)
 
 ### 对接顺序(具体细节请查看API对接文档)
