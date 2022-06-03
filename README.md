@@ -61,6 +61,13 @@ API根地址: https://api.danmu.oyyds.top
 
 # Changelog
 
+## 2022-06-03
+### 🎁Added
+- 对接bilibili国内弹幕
+### 🤝Changed
+- 更改系统逻辑
+### 🐛Fixed
+
 ## 2022-04-18
 ### 🎁Added
 - 添加访问黑名单
