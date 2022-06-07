@@ -61,6 +61,12 @@ API根地址: https://api.danmu.oyyds.top
 
 # Changelog
 
+## 2022-06-07
+### 🎁Added
+### 🤝Changed
+### 🐛Fixed
+- 修复bilibili弹幕颜色显示不正确的bug
+
 ## 2022-06-03
 ### 🎁Added
 - 对接bilibili国内弹幕
