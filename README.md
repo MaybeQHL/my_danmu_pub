@@ -36,8 +36,12 @@ API根地址: https://api.danmu.oyyds.top
 
 ### 对接顺序(具体细节请查看API对接文档)
 
- #### 查询、添加弹幕 
- 查询弹幕api: https://api.danmu.oyyds.top/api/message/getSome?name=斗破苍穹第一季&number=第一集&type=1
+ #### 查询、添加弹幕
+ 
+ 查询弹幕api v1: https://api.danmu.oyyds.top/api/message/getSome?name=斗破苍穹第一季&number=第一集&type=1
+ 
+ 查询弹幕api v2: https://api.danmu.oyyds.top/api/message/getSomeV2?name=斗罗大陆&number=第01集&type=1&flag=0&duration=1440
+  
  > 备注: 如果没有该资源会自动添加
  
  添加弹幕api: https://api.danmu.oyyds.top/api/message/addOne
@@ -68,6 +72,13 @@ API根地址: https://api.danmu.oyyds.top
 群1：262687084
 
 # Changelog
+
+
+## 2022-08-14
+### 🎁Added
+- 公测查询弹幕v2（片段弹幕）
+### 🤝Changed
+### 🐛Fixed
 
 ## 2022-08-10
 ### 🎁Added
