@@ -56,6 +56,13 @@ discord: https://discord.gg/qXEb2Hcr
 
 # Changelog
 
+## 2022-08-27
+### 🎁Added
+- 对接人人弹幕
+- 优化人人弹幕
+### 🤝Changed
+### 🐛Fixed
+
 ## 2022-08-18
 ### 🎁Added
 - 对接弹弹弹幕
