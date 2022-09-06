@@ -50,7 +50,7 @@ API根地址: https://api.danmu.oyyds.top
 本系统开发、部署、维护都是作者自己出钱、出力，如果有兴趣赞助联系本人，邮箱地址:`maybe52052@gmail.com`
 ## 交流群
 
-discord: https://discord.gg/qXEb2Hcr
+discord: https://discord.gg/sHNpPzrurp
 
 群1：262687084
 
