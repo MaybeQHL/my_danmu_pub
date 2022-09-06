@@ -60,7 +60,7 @@ discord: https://discord.gg/sHNpPzrurp
 ### 🎁Added
 ### 🤝Changed
 ### 🐛Fixed
-- 修复B站弹幕bug
+- 修复B站番剧搜索api的bug
 
 ## 2022-08-30
 ### 🎁Added
