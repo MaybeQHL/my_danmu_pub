@@ -58,6 +58,12 @@ discord: https://discord.gg/sHNpPzrurp
 
 ## 2022-08-30
 ### 🎁Added
+### 🤝Changed
+### 🐛Fixed
+- 修复B站弹幕bug
+
+## 2022-08-30
+### 🎁Added
 - 缓存人人剧集详情，加快查询速度
 ### 🤝Changed
 ### 🐛Fixed
