@@ -56,7 +56,15 @@ discord: https://discord.gg/sHNpPzrurp
 
 # Changelog
 
-## 2022-08-30
+
+## 2022-09-07
+### 🎁Added
+### 🤝Changed
+### 🐛Fixed
+- 修复dandan弹幕服务器无法连接的问题
+
+
+## 2022-09-06
 ### 🎁Added
 ### 🤝Changed
 ### 🐛Fixed
