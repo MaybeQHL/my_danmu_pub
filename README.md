@@ -1,20 +1,22 @@
-
 # my_danmu_pub
-![20684083](https://user-images.githubusercontent.com/34638673/163958311-65404541-49b1-4840-8a19-4b7f46207e9b.gif)
 
-免费、公开、快速的弹幕系统API。
+<p align="center"><img src="https://user-images.githubusercontent.com/34638673/163958311-65404541-49b1-4840-8a19-4b7f46207e9b.gif" width=150 height=150 /></p>
+
+<p align="center">免费、公开、快速的弹幕系统API</p>
+
 
 ## 初衷
 服务于类似樱花动漫类型的网站、app。
 
 ## 公告
 
+暂无
 
-## 提示
-![2069726C](https://user-images.githubusercontent.com/34638673/163958548-d098391d-a54a-4621-aacb-13a5c3d5f6f3.jpg)
+## 友情提示
 
 - 切勿使用本系统做违法乱纪的事情，一切后果自己承担。
 - 切勿恶意占用服务器资源（如恶意添加资源、恶意发送弹幕、恶意流量攻击）,一经发现永久冻结ip。
+
 ## 弹幕演示
 [在线演示](http://null_639_5368.gitee.io/my_danmu )
 
