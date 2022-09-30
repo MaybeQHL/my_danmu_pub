@@ -58,6 +58,12 @@ discord: https://discord.gg/sHNpPzrurp
 
 # Changelog
 
+## 2022-09-30
+### 🎁Added
+### 🤝Changed
+### 🐛Fixed
+- 修复dandan弹幕颜色解析错误的问题
+
 
 ## 2022-09-07
 ### 🎁Added
