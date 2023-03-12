@@ -58,6 +58,14 @@ discord: https://discord.gg/sHNpPzrurp
 
 # Changelog
 
+## 2023-03-12
+### 🎁Added
+- 编写弹幕数量优化算法以保证不会有海量的弹幕数据返回给客户端（太多的数据会加重http传送负担和客户端压力）
+### 🤝Changed
+- 对查询速度进行了几何倍数的优化
+### 🐛Fixed
+
+
 ## 2022-09-30
 ### 🎁Added
 ### 🤝Changed
