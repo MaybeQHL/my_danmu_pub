@@ -10,7 +10,11 @@
 
 ## 公告
 
-暂无
+## 已对接的项目
+
+_如果你的项目用到了本系统,可以提pr进行一个展示。_
+
+[媒体盒子(MediaBox)](https://github.com/RyensX/MediaBox)
 
 ## 友情提示
 
