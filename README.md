@@ -27,7 +27,7 @@ _如果你的项目用到了本系统,可以提pr进行一个展示。_
 
 新版弹幕接口需要用户权限
 
-[用户权限](https://console-docs.apipost.cn/preview/6cdd5552216b6c15/0d98eade7c82f46f)
+[用户权限](https://console-docs.apipost.cn/preview/d1ef070c3ed20c30/0b46eaf0d1cb5270)
 
 [弹幕](https://console-docs.apipost.cn/preview/6cdd5552216b6c15/0d98eade7c82f46f)
 
